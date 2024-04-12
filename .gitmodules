@@ -1,0 +1,6 @@
+[submodule "events"]
+	path = events
+	url = https://github.com/StAndUP-ru/events
+[submodule "funtech-front"]
+	path = funtech-front
+	url = https://github.com/VladislavSerduykov/funtech-front.git
